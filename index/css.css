@@ -1,0 +1,72 @@
+body
+{
+    background-image: url(../recource/Medo.jpg);
+    background-size: cover;
+}
+.title
+{
+    color: #EFB262;
+    font-size: 36px;
+    text-align: center;
+}
+
+.text
+{
+    font-size: 19px;
+    position: absolute;
+    right:350px;
+    margin:40px;
+    font-weight: 800;
+    color: white;
+    
+}
+.imagee
+{
+    position: absolute;
+    right: 150px;
+    top:165px;
+}
+.text2
+{
+    position: absolute;
+    top:600px;
+    right:350px;
+    margin:40px;
+    font-weight: 800;
+    color: white;
+    font-size: 19px;
+}
+.titl
+{
+    color: #EFB262;
+    font-size: 36px;
+    text-align: center;  
+}
+.const
+{
+    position: absolute;
+    right: 150px;
+    top:170px;
+    margin-right: -10px;
+   
+}
+a
+{
+    text-decoration: none; 
+}
+.const1
+{
+    position: absolute;
+    left: 1600px;
+    bottom:500px;
+}
+.const2
+{
+    position: absolute;
+    right: 30px;
+    top:200px;
+}
+.glav:hover
+{
+    box-shadow:inset 0 0 6px;
+}
